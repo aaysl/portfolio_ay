@@ -12,6 +12,8 @@ Furthermore, I bring additional specialization in Quality Assurance and Manageme
 Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Resume/Amelia_Yap_Resume.pdf).
 
 ### Portfolio Projects
+Project 1
+
 
 
 ### Certificates
