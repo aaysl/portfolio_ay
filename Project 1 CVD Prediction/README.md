@@ -39,7 +39,7 @@ Took the following steps to clean the data
 - Converted country column to numerical categoricals with `.get_dummies()`
 - Dropped occupation column and date column as it was not required for analysis
 - Ensured all floats (except BMI) was converted to smallint for smaller memory usage
-- Uploaded cleaned data to Postgresql as new table.
+- Uploaded cleaned data to Postgresql as new table.<br><br>
 Result of cleaning:<br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/4f7761f9-3ad6-45ca-ae3f-b3f0256baeb4)<br><br>
 ## Understanding the Data
