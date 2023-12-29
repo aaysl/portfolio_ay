@@ -64,26 +64,42 @@ Using `train_test_split()` from scikit-learn, we split the data into 2 datasets.
 The other is the test data set, which comprimises the other 20% of the data (not the same data as train data set!), and will be used to test the models.<br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/4e333e0f-2b84-40e4-bcc8-8927184cb390)
 ## Training and Testing the models
-Will be using the following ML algorithms/models
-- Logistical Regression
-- k-Nearest Neighbor
-- Support Vector Matrix
-- Decision Tree Classification
-- Random Forest
-- Gaussian Naive Bayes
+Will be using the following ML algorithms/models (this is the quick and dirty description)
+|Model|Description|
+|---|---|
+|Logistic Regression|Estimate discrete values (like 0 or 1) from a set of independent variables|
+|K-Nearest Neighbour|Classifies based on proximity to grouping|
+|Support Vector Machine|Plots data points in an n-dimension space, each value is tied to a coordinate. Split the data based on position in the space|
+|Decision Tree| Classifies categorical and continuous dependent variables.  Divides population into 2 or more homogeneous sets based on significant attributes|
+|Random Forest|Classifies objects based on how many “votes” it has for that attribute|
+|Gaussian Naïve Bayes|Assumes all features are unrelated, considers all features independently|
+
 For each model will be obtaining the following accuracy scores:
 - Cross validation score with `cross_val_score()`
-- Balanced accuracy score with 'balanced_accuracy_score()`
+- Balanced accuracy score with `balanced_accuracy_score()`
 - f1 score with `f1_score`
+<br><br>
+
 And displaying the confusion matrix to give a feel of the number of false positives and false negatives obtained.<br>
-All the calculations were created in a functions for ease of application to all models.<br>
+Here's a brief description of the accuracy scores:<br><br>
+|Scoring|Description|
+|---|---|
+|Cross Valuation Score |Generates a cross-validated accuracy score for each data-point |
+|Balanced accuracy score |Proportion of correctly determined points out of all the samples. Also weighted to take into consideration imbalanced datasets |
+|F1 |Harmonic mean between precision (proportion of True positives among all Positives) and recall (proportion of True positives among all relevant samples) |
+|Confusion Matrix |Based on testing dataset, calculates how many fall in the following categories: True Positive, False Positive, True Negative, False Negatives |
+
+<br><br>
+
+All the calculations were created in a functions for ease of application to all models.<br><br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/aaae1d94-1e1f-4604-9261-1ad8fe9705e9)<br><br>
-A sample of the output can be seen here:<br>
+A sample of the output can be seen here:<br><br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/ad9cd1aa-875d-4865-8077-ae1f2dc04075)<br><br>
 An evaluation of the models can be done by plotting their accuracy scores<br>
-![image](https://github.com/aaysl/portfolio_ay/assets/149126592/ccdfa25f-23bb-4e27-8c09-31b67a2e2d2e)<br><br>
-A simple function can be built to give a statement style prediction:<br>
-![image](https://github.com/aaysl/portfolio_ay/assets/149126592/9bd98c7a-3b54-46e0-9bce-5d5334366a69)<br><br>
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/ed5e446a-660e-4fc9-b52b-0d71984a1c98)<br><br>
+In this situation, Random forest gave the best accuracy scores. Using that we can code a simple function to give a statement style prediction:<br><br>
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/1946b06b-b9ab-4a12-b779-8f78e8ea0916)
+<br><br>
 
 That's the end of the project, please contact me if you have any further questions!
 
