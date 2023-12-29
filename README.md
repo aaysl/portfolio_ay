@@ -1,7 +1,7 @@
 # Amelia Yap
 ### _Aspiring Data Analyst_
 ***
-### About me
+## About me
 
 With over two decades of experience in preclinical drug discovery and translational research, I have demonstrated a strong focus on high-throughput laboratory automation and screening. My expertise extends to comprehensive data analysis, data analytics, and proficient inventory management, showcasing my adaptability and quick learning abilities.
 
@@ -24,6 +24,7 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
 - Machine Learning in Python
 - Statistics
 - Quality Management
+***
 
 ### Portfolio Projects
 [**Project 1**]('https://github.com/aaysl/portfolio_ay/tree/main/Project%201%20CVD%20Prediction')
@@ -34,7 +35,7 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
 <br>
 *Undergoing updates*
 
-
+***
 
 
 ### Certificates
