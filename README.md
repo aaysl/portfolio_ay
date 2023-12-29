@@ -12,7 +12,10 @@ Furthermore, I bring additional specialization in Quality Assurance and Manageme
 Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Resume/Amelia_Yap_Resume.pdf).
 
 ### Portfolio Projects
-Project 1
+- [**Project 1**]('https://github.com/aaysl/portfolio_ay/tree/main/Project%201%20CVD%20Prediction')
+  - The goal of the project was to use machine learning algorithms to predict the possibility of an individual having cardiovascular disease or not. *More details in the folder Project 1 CVD Prediction*
+- Project 2
+
 
 
 
