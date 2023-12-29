@@ -1,0 +1,1 @@
+copy public.cardio_data (date, country, id, active, age, alco, ap_hi, ap_lo, cholesterol, gender, gluc, height, occupation, smoke, weight, disease) FROM 'C:/Users/nexa_/OneDrive/DOCUME~1/Classes/DATAAN~1/13CAPS~1/PROJEC~1/Dataset/CARDIO~1.CSV' DELIMITER ',' CSV HEADER
