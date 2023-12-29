@@ -5,11 +5,25 @@
 
 With over two decades of experience in preclinical drug discovery and translational research, I have demonstrated a strong focus on high-throughput laboratory automation and screening. My expertise extends to comprehensive data analysis, data analytics, and proficient inventory management, showcasing my adaptability and quick learning abilities.
 
-I possess advanced proficiency in Microsoft Excel, and I am well-versed in Python, specifically utilizing Pandas, Numpy, Seaborn, and Matplotlib. Additionally, my skill set encompasses various software applications, including Microsoft Office, Microsoft Power Apps Suite (e.g., Power Automate, Power BI), Laboratory Inventory Management Systems, and Laboratory Data Analysis tools such as Prism, MasterControl, among others.
-
 Furthermore, I bring additional specialization in Quality Assurance and Management, currently aligning with ISO9001:2015 standards. My commitment to maintaining quality is reinforced by my certification as an Internal Auditor from TUV SUD.
 
 Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Resume/Amelia_Yap_Resume.pdf).
+
+### Technical Know-how
+- Python including Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, SqlAlchemy and more
+- Microsoft office, especially Microsoft Excel
+- Microsoft Power Apps Suite, especially Microsoft Power BI
+- Laboratory Information Management Systems
+- Scientific analysis tools such as Graphpad Prism, IDBS ActivityBase
+- Quality Management software such as MasterControl
+- SQL
+
+### Skills
+- Exploratory Data Analysis, including data cleaning, data investigation, data analysis
+- Data Visualization
+- Machine Learning in Python
+- Statistics
+- Quality Management
 
 ### Portfolio Projects
 [**Project 1**]('https://github.com/aaysl/portfolio_ay/tree/main/Project%201%20CVD%20Prediction')
