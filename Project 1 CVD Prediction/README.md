@@ -83,7 +83,7 @@ A sample of the output can be seen here:<br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/ad9cd1aa-875d-4865-8077-ae1f2dc04075)<br><br>
 An evaluation of the models can be done by plotting their accuracy scores<br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/ccdfa25f-23bb-4e27-8c09-31b67a2e2d2e)<br><br>
-A simple function can be built to give a statement style prediction:
+A simple function can be built to give a statement style prediction:<br>
 ![image](https://github.com/aaysl/portfolio_ay/assets/149126592/9bd98c7a-3b54-46e0-9bce-5d5334366a69)<br><br>
 
 That's the end of the project, please contact me if you have any further questions!
