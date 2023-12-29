@@ -1,7 +1,7 @@
 # Amelia Yap
-### _Aspiring Data Analyst_
+##### _Aspiring Data Analyst_
 ***
-## About me
+### About me
 
 With over two decades of experience in preclinical drug discovery and translational research, I have demonstrated a strong focus on high-throughput laboratory automation and screening. My expertise extends to comprehensive data analysis, data analytics, and proficient inventory management, showcasing my adaptability and quick learning abilities.
 
