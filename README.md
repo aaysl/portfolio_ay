@@ -16,7 +16,7 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
   - Capstone project for SCTP Associate Data Analyst Course by NTUC Learning Hub
   - The goal of the project was to use machine learning algorithms to predict the possibility of an individual having cardiovascular disease or not. *More details in the folder Project 1 CVD Prediction*
   - ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
-  - - ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, sqlalchemy
+  - ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, sqlalchemy
 <br>
 *Undergoing updates*
 
