@@ -11,8 +11,7 @@ In [`P1-1 EDA.ipynb`](https://raw.githubusercontent.com/aaysl/portfolio_ay/main/
 In [`P1-2 Modelling.ipynb`](https://raw.githubusercontent.com/aaysl/portfolio_ay/main/Project%201%20CVD%20Prediction/P1-2%20Modelling.ipynb), using the cleaned dataset, relationship analysis was done with the different features of the dataset. Comparing different machine learning algorithms, the best was selected to make a prediction based on a test subset.
 
 # Summary
-*in [`P1-1 EDA.ipynb`](https://raw.githubusercontent.com/aaysl/portfolio_ay/main/Project%201%20CVD%20Prediction/P1-1%20EDA.ipynb)*<br>
-*for details on the codes and steps taken, please see the notebook*<br>
+*for details on the codes and steps taken, please see the notebooks linked above*<br>
 *Cardiovascular disease will be referred to by the abbreviation CVD*
 ## Initial Data exploration
 Data was pulled in from Postgresql and converted to a Dataframe with pandas.<br><br>
