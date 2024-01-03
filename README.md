@@ -27,7 +27,8 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
 ***
 
 ### Portfolio Projects
-[**Project 1**]('https://github.com/aaysl/portfolio_ay/tree/main/Project%201%20CVD%20Prediction')
+
+<a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%201%20CVD%20Prediction'><b>Project 1</b> Prediction of Cardiovascular Disease</a>
   - Capstone project for SCTP Associate Data Analyst Course by NTUC Learning Hub
   - The goal of the project was to use machine learning algorithms to predict the possibility of an individual having cardiovascular disease or not. *More details in the folder Project 1 CVD Prediction*
   - ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
@@ -43,7 +44,7 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
 - [SCTP - Associate Data Analyst](https://www.ntuclearninghub.com/skillsfuture-career-transition-programme/associate-data-analyst) by NTUC Learning Hub. *Estimated completion: End January 2024*
 - [Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) by Google. *Estimated completion: Mid February 2024*
 #### Completed <br>
-🔈* The following links leads to the certificate for each course*
+🔈<i>The following links leads to the certificate for each course</i>
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-ff140897-6bfe-4f34-ae2b-07941b4808a8/) by Udemy
 - [The Data Analyst Course: Complete Data Analyst Bootcamp](https://www.udemy.com/certificate/UC-71c78a42-94df-457e-96ad-72236e4f985a/) by Udemy
 - [Microsoft Excel: Business Intelligence w/ Power Query & DAX](http://ude.my/UC-000b2111-3551-43a5-9232-e42d3232ed74/) by Udemy
