@@ -18,10 +18,15 @@ The Dashboard is spread across 4 pages with the following content<br>
 - Insights
   - Summarised observed trends and insights based on visualizations in previous pages.
 <br>
-![image](https://github.com/aaysl/portfolio_ay/assets/149126592/4a08ded3-65d2-4909-b87c-a8dc85b21892)
-![image](https://github.com/aaysl/portfolio_ay/assets/149126592/bc32fbee-55e6-40e4-9dd0-31fb6d406380)
-![image](https://github.com/aaysl/portfolio_ay/assets/149126592/878f049b-452c-404e-90c9-d3e3477708d8)
-![image](https://github.com/aaysl/portfolio_ay/assets/149126592/dc957df3-089b-43cd-89b8-964c5e07de09)
+
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/4a08ded3-65d2-4909-b87c-a8dc85b21892)<br>
+
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/bc32fbee-55e6-40e4-9dd0-31fb6d406380)<br>
+
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/878f049b-452c-404e-90c9-d3e3477708d8)<br>
+
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/dc957df3-089b-43cd-89b8-964c5e07de09)<br>
+
 
 
 
