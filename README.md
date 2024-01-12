@@ -13,6 +13,7 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
 - Python including Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, SqlAlchemy and more
 - Microsoft office, especially Microsoft Excel
 - Microsoft Power Apps Suite, especially Microsoft Power BI
+- Tableau
 - Laboratory Information Management Systems
 - Scientific analysis tools such as Graphpad Prism, IDBS ActivityBase
 - Quality Management software such as MasterControl
@@ -34,7 +35,13 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
   - ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
   - ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, sqlalchemy
 <br>
-*Undergoing updates*
+<a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%202%20Seoul%20Bike%20Rental'><b>Project 2</b> Seoul Bike Sharing Dashboard</a>
+  - Dashboard was created with Power BI
+  - Easy way to look at metrics visually without sacrificing information
+  -  ${\color{green}Skills:}$ Data Analysis, Data Visualization, Dashboard
+  -  ${\color{green}Tools:}$ Power BI, DAX, Power Query
+<br>
+_Undergoing updates_
 
 ***
 
