@@ -7,7 +7,7 @@ The goal is to create a dashboard with Microsoft Power BI to provide Management 
 
 #  Dashboard
 <br>
-The Dashboard is spread across 4 pages with the following content<br>
+The <a href='https://github.com/aaysl/portfolio_ay/blob/main/Project%202%20Seoul%20Bike%20Rental/Seoul%20Bike%20Rental%20Insights%202018.pbix'>dashboard</a> is spread across 4 pages with the following content<br>
 
 - Rental Trends by Time/Season
   - Provide visual metrics on Rental rates vs chronological type features (Hour, Day, Month and Season)
