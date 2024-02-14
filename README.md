@@ -43,6 +43,11 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
   -  ${\color{green}Tools:}$ Power BI, DAX, Power Query
 <br>
 
+Challenge Solution 1 - Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.
+  - Answering questions from the Data in Motion challenge
+  - ${\color{green}Skills:}$ Data Analysis, Database Query, Problem Solving
+  - ${\color{green}Tools:}$ SQL, Postgresql
+
 _Undergoing updates_
 
 ***
