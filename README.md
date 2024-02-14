@@ -1,6 +1,5 @@
 # Amelia Yap
-##### _Aspiring Data Analyst_
-***
+
 ### About me
 
 With over two decades of experience in preclinical drug discovery and translational research, I have demonstrated a strong focus on high-throughput laboratory automation and screening. My expertise extends to comprehensive data analysis, data analytics, and proficient inventory management, showcasing my adaptability and quick learning abilities.
@@ -43,7 +42,7 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
   -  ${\color{green}Tools:}$ Power BI, DAX, Power Query
 <br>
 
-Challenge Solution 1 - Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.
+<a href='https://github.com/aaysl/portfolio_ay/tree/main/Challenge%201%20Data%20in%20Motion%20SQL%20interview%20qn'><b>Challenge Solution 1 - Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.</b></a>
   - Answering questions from the Data in Motion challenge
   - ${\color{green}Skills:}$ Data Analysis, Database Query, Problem Solving
   - ${\color{green}Tools:}$ SQL, Postgresql
