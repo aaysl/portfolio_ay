@@ -6,7 +6,7 @@ With over two decades of experience in preclinical drug discovery and translatio
 
 Furthermore, I bring additional specialization in Quality Assurance and Management, currently aligning with ISO9001:2015 standards. My commitment to maintaining quality is reinforced by my certification as an Internal Auditor from TUV SUD.
 
-Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Resume/Amelia_Yap_Resume.pdf).
+Here is my CV in [pdf](https://github.com/aaysl/portfolio_ay/blob/main/Resume/AmeliaYap%20-%20Resume.pdf).
 
 ### Technical Know-how
 - Python including Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, SqlAlchemy and more
