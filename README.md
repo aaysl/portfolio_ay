@@ -6,7 +6,7 @@ With over two decades of experience in preclinical drug discovery and translatio
 
 Furthermore, I bring additional specialization in Quality Assurance and Management, currently aligning with ISO9001:2015 standards. My commitment to maintaining quality is reinforced by my certification as an Internal Auditor from TUV SUD.
 
-Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Resume/Amelia_Yap_Resume.pdf).
+Here is my CV in [pdf](https://github.com/aaysl/portfolio_ay/blob/main/Resume/AmeliaYap%20-%20Resume.pdf).
 
 ### Technical Know-how
 - Python including Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, SqlAlchemy and more
@@ -41,11 +41,12 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
   -  ${\color{green}Skills:}$ Data Analysis, Data Visualization, Dashboard
   -  ${\color{green}Tools:}$ Power BI, DAX, Power Query
 <br>
-<a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%203%20Sailfort%20Employee%20Turnover'><b>Project 3</b> Sailfort Motors Employee Turnover Project</a>
+
+<a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%203%20Sailfort%20Employee%20Turnover'><b>Project 3</b> Salifort Motors Employee Turnover Project</a>
 - Capstone project for Google Advance Data Analytics Course
-- Project goal : Determine the cause of high employee turnover using predictive models. *More details in the folder Project 3 Sailfort Employee Turnover*
-  - ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
-  - ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, XGBoost, statsmodel
+- Project goal : Determine the cause of high employee turnover using predictive models. *More details in the folder Project 3 Salifort Employee Turnover*
+- ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
+- ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, XGBoost, statsmodel
 <br>
 
 <a href='https://github.com/aaysl/portfolio_ay/tree/main/Challenge%201%20Data%20in%20Motion%20SQL%20interview%20qn'><b>Challenge Solution 1</b> Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.</a>
