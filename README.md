@@ -41,6 +41,7 @@ Here is my CV in [pdf](https://github.com/aaysl/portfolio_ay/blob/main/Resume/Am
   -  ${\color{green}Skills:}$ Data Analysis, Data Visualization, Dashboard
   -  ${\color{green}Tools:}$ Power BI, DAX, Power Query
 <br>
+
 <a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%203%20Sailfort%20Employee%20Turnover'><b>Project 3</b> Sailfort Motors Employee Turnover Project</a>
 - Capstone project for Google Advance Data Analytics Course
 - Project goal : Determine the cause of high employee turnover using predictive models. *More details in the folder Project 3 Sailfort Employee Turnover*
