@@ -1,13 +1,13 @@
 # Goals
 <br>
-Data set is the Hr Analytics Job Prediction that can be found on <a href="https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv">Kaggle</a>, uploaded by Faisal Qureshi. <br>
+Data set is the Hr Analytics Job Prediction that can be found on <a href="https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv">Kaggle</a>, uploaded by Faisal Qureshi. <br><br>
 The Senior leadership team at Salifort Motors is concerned about the high turnover rate at the company and wishes to address the issue.<br>
-A high turnover rate is financially costly for the company as Salifort invests heavily in recruitment, training and upskilling its employees<br>
+A high turnover rate is financially costly for the company as Salifort invests heavily in recruitment, training and upskilling its employees<br><br>
 The HR team has gathered some data from the employees and has asked to provide data-driven suggestions to be able to introduce initiatives to help improve employee satisfaction.<br><br>
 
 # Materials
 All coding was done in the notebook [`Salifort Motors capstone`](https://github.com/aaysl/portfolio_ay/blob/main/Project%203%20Sailfort%20Employee%20Turnover/Salifort%20Motors%20capstone.ipynb).<br>
-PACE strategy was drafted and created in ['Capstone - PACE-strategy-document'](https://github.com/aaysl/portfolio_ay/blob/main/Project%203%20Sailfort%20Employee%20Turnover/Capstone%20-%20PACE-strategy-document.docx)<br>
+PACE strategy was drafted and created in [`Capstone - PACE-strategy-document`](https://github.com/aaysl/portfolio_ay/blob/main/Project%203%20Sailfort%20Employee%20Turnover/Capstone%20-%20PACE-strategy-document.docx)<br>
 The Executive Summary for Salifort Motors management can be viewed at the document [`Capstone - Executive Summaries`](https://github.com/aaysl/portfolio_ay/blob/main/Project%203%20Sailfort%20Employee%20Turnover/Capstone%20-%20Executive%20Summaries.pptx) *created with Google Executive Summary Template*
 
 # Summary
@@ -122,27 +122,75 @@ Work accident and department distributions did not show any relation to whether 
 
 These 2 features do not seem to strongly influence in an employee's decision to leave.
 
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/8c763056-602c-4d86-b9bc-1503d19ce705)
+
+Salary level seems to have an equal distribution of employees leaving. 
+
+### Data Cleaning
+
+Convert `department` and `salary` to numerical values
+
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/5280284d-ea14-4113-8baa-58fc6c54faa9)
+
+Remove outliers from tenure by capping any values above upper limit
+
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/aa08edfd-8556-4e01-984e-dc3a022b629f)
+
+### Data Correlation
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/d45cc234-666d-4409-bf97-faaa9f018701)
+
+The 2 features that seem to have some correlation (although not strong) is `average_monthly_hours` and `number_project`
+
+## Modelling
+Data was split 30% to test and 70% to train
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/6f3fd81c-0dca-459d-b0a8-6d047d378e8e)
+
+Created a function to calculate and compile metrics from each model
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/aa1b60b9-a1dc-46c3-8bf6-8f47102c01e5)
+
+What do the metrics measure?
+
+|Metrics|Explanation|
+|:---:|:---|
+|CVS|Evaluates by spliting the data into *k* sets and cross validates the accuracy score across the *k* sets|
+|Accuracy|Proportion of correctly identified data points, Balanced formula was used as the data is imbalanced|
+|Recall|Proportion of correctly identified Positive data points out of all predicted Positive data points |
+|Precision|Proportion of correctly identified Positive data point out of all actually Positive data points|
+|f1|Harmonic aggregation of Recall and Precision scoring|
 
 
+Tested 5 models
+- Logistic Regression
+- Gaussian Naive Bayes
+- Random Forest (with GridSearchCV)
+- XGBoost (with GridSearchCV)
+- SVM
 
+Here's the compiled metrics
 
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/fe83764e-4fca-4d0e-ba4a-5d88170a100c)
 
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/5b81d312-2c0e-4f69-b8db-ab3b721883fa)
 
+XGBoost scored the best across the board on all the metrics measured.
 
+What were the features identified as important in the classification?
 
+![image](https://github.com/aaysl/portfolio_ay/assets/149126592/f46e2ed4-91a9-44e5-84b3-0f8a4a942cfa)
 
-
-
-
-
-
-
-
-
-
-
-
-
+Findings are as follows
+- XGB was the best model out of 5 tested
+- The top 5 features that influences an employee's continued employment are
+    - average_monthly_hours
+    - satisfaction_level
+    - last_evaluation
+    - number_project
+    - tenure
+- There is a need to ensure that the `average_monthly_hours` worked is closer to standard average. Is there a manpower issue? Are deadlines not set with proper consideration? Or is there a work culture that needs to be adjusted. Promote a better work-life-balance.
+- Employees who are assigned a large number of projects (6 and above) are more likely to leave, ensure that there is a maximum number of projects that an employee is assigned to.
+- Proper recognition of employees' efforts through promotion should be done.
+- More data can be collected, such as specific manager names, staff seniority, staff experience, amount of overtime done, average daily hours and weekly hours
+- The model can also be improved by introducing new data and/or looking at different models that can give a more detailed breakdown on how the features influences the employee's decision to leave
 <br><br>
 
 
