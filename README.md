@@ -41,11 +41,19 @@ Here is my CV in [pdf](https://github.com/aaysl/ilovedata_portfolio/blob/main/Re
   -  ${\color{green}Skills:}$ Data Analysis, Data Visualization, Dashboard
   -  ${\color{green}Tools:}$ Power BI, DAX, Power Query
 <br>
+<a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%203%20Sailfort%20Employee%20Turnover'><b>Project 3</b> Sailfort Motors Employee Turnover Project</a>
+- Capstone project for Google Advance Data Analytics Course
+- Project goal : Determine the cause of high employee turnover using predictive models. *More details in the folder Project 3 Sailfort Employee Turnover*
+  - ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
+  - ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, XGBoost, statsmodel
+<br>
 
-<a href='https://github.com/aaysl/portfolio_ay/tree/main/Challenge%201%20Data%20in%20Motion%20SQL%20interview%20qn'><b>Challenge Solution 1</b> - Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.</a>
+<a href='https://github.com/aaysl/portfolio_ay/tree/main/Challenge%201%20Data%20in%20Motion%20SQL%20interview%20qn'><b>Challenge Solution 1</b> Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.</a>
   - Answering questions from the Data in Motion challenge
   - ${\color{green}Skills:}$ Data Analysis, Database Query, Problem Solving
   - ${\color{green}Tools:}$ SQL, Postgresql
+<br>
+
 
 _Undergoing updates_
 
@@ -53,11 +61,10 @@ _Undergoing updates_
 
 
 ### Certificates
-#### Ongoing
-- [SCTP - Associate Data Analyst](https://www.ntuclearninghub.com/skillsfuture-career-transition-programme/associate-data-analyst) by NTUC Learning Hub. *Estimated completion: End January 2024*
-- [Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) by Google. *Estimated completion: Mid February 2024*
 #### Completed <br>
 🔈<i>The following links leads to the certificate for each course</i>
+- [Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/KAFLW74BVFHL) by Google.
+- [SCTP - Associate Data Analyst](https://github.com/aaysl/portfolio_ay/files/14427455/VLC-SCTPDAT-23-0665.YAP.SUE.LIN.AMELIA.pdf) by NTUC LearningHub
 - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-ff140897-6bfe-4f34-ae2b-07941b4808a8/) by Udemy
 - [The Data Analyst Course: Complete Data Analyst Bootcamp](https://www.udemy.com/certificate/UC-71c78a42-94df-457e-96ad-72236e4f985a/) by Udemy
 - [Microsoft Excel: Business Intelligence w/ Power Query & DAX](http://ude.my/UC-000b2111-3551-43a5-9232-e42d3232ed74/) by Udemy
