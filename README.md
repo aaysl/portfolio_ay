@@ -45,8 +45,8 @@ Here is my CV in [pdf](https://github.com/aaysl/portfolio_ay/blob/main/Resume/Am
 <a href='https://github.com/aaysl/portfolio_ay/tree/main/Project%203%20Sailfort%20Employee%20Turnover'><b>Project 3</b> Salifort Motors Employee Turnover Project</a>
 - Capstone project for Google Advance Data Analytics Course
 - Project goal : Determine the cause of high employee turnover using predictive models. *More details in the folder Project 3 Salifort Employee Turnover*
-  - ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
-  - ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, XGBoost, statsmodel
+- ${\color{green}Skills:}$ EDA, Data Cleaning, Data Analysis, Data Visualization, Machine Learning, Descriptive Statistics
+- ${\color{green}Tools:}$ Python, pandas, numpy, scikit-learn, matplotlib, seaborn, XGBoost, statsmodel
 <br>
 
 <a href='https://github.com/aaysl/portfolio_ay/tree/main/Challenge%201%20Data%20in%20Motion%20SQL%20interview%20qn'><b>Challenge Solution 1</b> Data in Motion Ace Your Data Analyst Interview Challenge Day 2: SQL Interview Questions.</a>
